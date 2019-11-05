@@ -1,0 +1,13 @@
+.imgarea-1, .imgarea-2, .imgarea-3{
+    /* position: relative; */
+}
+.imgarea-1 img, .imgarea-2 img, .imgarea-3 img{
+    width: 735px !important;
+    height: 450px !important;
+}
+.textarea-1, .textarea-2, .textarea-3{
+    width: 450px;
+    height: 450px;
+    background: linear-gradient(to right bottom, rgb(64, 54, 54), rgb(17, 17, 17));
+    /* position: absolute; */
+}  
