@@ -6,7 +6,34 @@
 body {
     font-size: 1.4rem;
 }
+.values{
+    background-color: rgb(241, 241, 241);
+    padding-top: 140px;
+    padding-bottom: 140px;
+}
 
+.values h2{
+    margin-top: 0px;
+    font-family: Roboto;
+    text-align: center;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+    font-size: 2.4rem;
+    color: rgb(142, 128, 128);
+    font: bold;
+}
+.values h3{
+    margin-top: 0px;
+    font-family: Roboto;
+    margin-right: auto;
+    margin-bottom: 120px;
+    margin-left: auto;
+    font-size: 5rem;
+    color: rgb(17, 17, 17);
+}
+.valSpan{
+    color: #ffc300 !important;
+}
 .value-1, .value-2, .value-3 {
     position: relative;
     width: 100%;
@@ -69,7 +96,6 @@ body {
     height: 705.188px;
     background-color: rgb(63, 62, 62);
     padding: 140px;
-    
 }
 .solution h3{
     font-family: Roboto;
