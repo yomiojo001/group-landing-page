@@ -39,8 +39,7 @@ nav{
     width: 100%;
     padding: 20px;
     height: 740px;
-    padding-top: 50px;
-    margin-top: -50px;
+    padding-top: 80px;
   }
   .content2{
     position: relative;
@@ -85,7 +84,7 @@ nav{
   }
   .nav li{
       float: left;
-      margin: 40px 0px;
+      margin: 40px -10px;
   }
   .nav li a{
     color: white;
