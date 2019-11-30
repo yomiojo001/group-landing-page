@@ -80,7 +80,7 @@ nav{
   .navbar{
     float: right;
     overflow: hidden;
-    width: 60%;
+    width: 50%;
   }
   .nav li{
       float: left;
